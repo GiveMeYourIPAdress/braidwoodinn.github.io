@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Why Jekyll?"
-description: 
-headline: 
-modified: 2014-07-23
+title: Why Jekyll?
+modified: 'Tue Jul 22 2014 20:00:00 GMT-0400 (Eastern Daylight Time)'
 category: webdevelopment
-tags: [jekyll]
-imagefeature: 
-mathjax: 
-chart: 
+tags: jekyll
+mathjax: false
+chart: null
 comments: true
 featured: true
+published: true
+categories:
+  - personal
 ---
 
-Well, I guess it's quite obvious that I really enjoy working with Jekyll — with good reasons — so let me just briefly suggest some of the benefits of using a static site generator in favor of a heavy dynamic, database driven content management system.
+Well, I guess it's quie obvious that I really enjoy working with Jekyll — with good reasons — so let me just briefly suggest some of the benefits of using a static site generator in favor of a heavy dynamic, database driven content management system.
 
 - **Speed**: Static HTML pages are small, lightweight and perform blazingly fast. You’ll notice the difference.
 
